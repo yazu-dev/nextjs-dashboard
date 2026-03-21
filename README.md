@@ -17,9 +17,9 @@ This repository follows my progress on the 'App Router' tutorial of Next.js
 
 [x] Static and Dynamic Rendering 
 
-[ ] Streaming <-- Currently here.
+[x] Streaming 
 
-[ ] Adding Search and Pagination
+[ ] Adding Search and Pagination <-- Currently here.
 
 [ ] Mutating Data
 
