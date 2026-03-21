@@ -13,11 +13,11 @@ This repository follows my progress on the 'App Router' tutorial of Next.js
 
 [x] Setting Up Your Databases 
 
-[ ] Fetching Data <-- Currently here.
+[x] Fetching Data 
 
-[ ] Static and Dynamic Rendering
+[x] Static and Dynamic Rendering 
 
-[ ] Streaming
+[ ] Streaming <-- Currently here.
 
 [ ] Adding Search and Pagination
 
