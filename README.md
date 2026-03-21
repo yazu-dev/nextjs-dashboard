@@ -19,9 +19,9 @@ This repository follows my progress on the 'App Router' tutorial of Next.js
 
 [x] Streaming 
 
-[ ] Adding Search and Pagination <-- Currently here.
+[x] Adding Search and Pagination 
 
-[ ] Mutating Data
+[ ] Mutating Data <-- Currently here.
 
 [ ] Handling Errors
 
