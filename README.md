@@ -21,9 +21,9 @@ This repository follows my progress on the 'App Router' tutorial of Next.js
 
 [x] Adding Search and Pagination 
 
-[ ] Mutating Data <-- Currently here.
+[x] Mutating Data 
 
-[ ] Handling Errors
+[ ] Handling Errors <-- Currently here.
 
 [ ] Improving Acessibility
 
