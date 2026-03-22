@@ -23,9 +23,9 @@ This repository follows my progress on the 'App Router' tutorial of Next.js
 
 [x] Mutating Data 
 
-[ ] Handling Errors <-- Currently here.
+[x] Handling Errors 
 
-[ ] Improving Acessibility
+[ ] Improving Acessibility <-- Currently here.
 
 [ ] Adding Authentication
 
