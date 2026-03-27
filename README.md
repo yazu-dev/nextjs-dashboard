@@ -29,5 +29,5 @@ This repository follows my progress on the 'App Router' tutorial of Next.js
 
 [x] Adding Authentication 
 
-[ ] Adding Metadata <-- Currently here.
+[x] Adding Metadata
 
